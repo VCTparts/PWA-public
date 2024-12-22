@@ -1,20 +1,20 @@
 {
-    "name": "Mijn Webshop",
-    "short_name": "Webshop",
-    "start_url": "/",
+    "name": "VCTparts WebApp",
+    "short_name": "VCTparts",
+    "start_url": "https://www.vctparts.nl/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ff6600",
     "icons": [
         {
-            "src": "icons/icon-192x192.png",
+            "src": "https://cdn.webshopapp.com/shops/338477/files/470216334/audi-logo-ctparts.ico",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/ico"
         },
         {
-            "src": "icons/icon-512x512.png",
+            "src": "https://cdn.webshopapp.com/shops/338477/files/470216334/audi-logo-ctparts.ico",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/ico"
         }
     ]
 }
